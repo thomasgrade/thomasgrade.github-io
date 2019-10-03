@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 今、情热が岚になって
+title: 菜鸡拓，拓菜鸡
 ---
 ## 近期
 

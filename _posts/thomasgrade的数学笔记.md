@@ -1,4 +1,6 @@
-# thomasgrade的数学笔记
+title: thomasgrade的数学笔记
+categories: 数学
+date: 2019-10-03 19:36:00
 
 ## 矢量运算
 
